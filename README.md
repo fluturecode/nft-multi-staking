@@ -1,3 +1,3 @@
-# NFT Staing (Land, Animal, Farmer)
+# NFT Staking
 
 ## NFT Staking frontend
